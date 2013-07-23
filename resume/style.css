@@ -1,0 +1,66 @@
+html {
+    /*background-color: #DEDEDE;*/
+}
+body {
+    font-family: "Monaco", "Lucida Grande", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    /*margin: 1.5em auto;*/
+    margin: auto;
+    /*padding: 1.5em;*/
+    /*background-color: white;*/
+    color: #202020;
+    max-width: 45em;
+    /*border: 0.75em solid #A6A59C;*/
+    line-height: 1.5em;
+}
+
+#method {
+    display: inline-block;
+    margin-left: 5%;
+}
+
+#dictionary {
+   display: inline-block;
+    margin-left: 10%;
+}
+
+#array {
+    display: inline-block;
+    margin-left: 20%;
+}
+
+#projectClass {
+    color: #3E6D74;
+}
+
+#projectMethod {
+    color: #25464A;
+}
+
+#otherClass {
+    color: #5B2599;
+}
+
+#otherMethod {
+    color: #2E0D6D;
+}
+
+#keyword {
+    color: #A90D91;
+}
+
+#comment {
+    color: #007400;
+}
+
+#string {
+    color: #C41A15;
+}
+
+#preproc {
+    color: #63381F
+}
+
+#char {
+    color: #1C00CE;
+}
