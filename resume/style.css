@@ -9,7 +9,8 @@ body {
     /*padding: 1.5em;*/
     /*background-color: white;*/
     color: #202020;
-    max-width: 45em;
+    /*max-width: 45em;*/
+    max-width: 600px;
     /*border: 0.75em solid #A6A59C;*/
     line-height: 1.5em;
 }
@@ -17,16 +18,19 @@ body {
 #method {
     display: inline-block;
     margin-left: 5%;
+    font-size: 13px;
 }
 
 #dictionary {
    display: inline-block;
     margin-left: 10%;
+    font-size: 13px;
 }
 
 #array {
     display: inline-block;
     margin-left: 20%;
+    font-size: 13px;
 }
 
 #projectClass {
