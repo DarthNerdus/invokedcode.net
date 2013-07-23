@@ -2,7 +2,7 @@ html {
     /*background-color: #DEDEDE;*/
 }
 body {
-    font-family: "Monaco", "Lucida Grande", Arial, Helvetica, sans-serif;
+    font-family: "Monaco", 'Source Code Pro', "Lucida Grande", Arial, Helvetica, sans-serif;
     font-size: 13px;
     /*margin: 1.5em auto;*/
     margin: auto;
