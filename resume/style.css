@@ -16,19 +16,19 @@ body {
 }
 
 #method {
-    display: inline-block;
+    /*display: inline-block;*/
     margin-left: 5%;
     font-size: 13px;
 }
 
 #dictionary {
-   display: inline-block;
+   /*display: inline-block;*/
     margin-left: 10%;
     font-size: 13px;
 }
 
 #array {
-    display: inline-block;
+    /*display: inline-block;*/
     margin-left: 20%;
     font-size: 13px;
 }
